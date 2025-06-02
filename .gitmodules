@@ -7,3 +7,6 @@
 [submodule "parallax"]
 	path = parallax
 	url = https://github.com/DhrishP/Parallax-website
+[submodule "minimalistic"]
+	path = minimalistic
+	url = https://github.com/DhrishP/MinimalisticPortfolio
