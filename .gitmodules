@@ -1,3 +1,6 @@
 [submodule "formal"]
 	path = formal
 	url = https://github.com/DhrishP/portfolio-formal
+[submodule "glitch"]
+	path = glitch
+	url = https://github.com/DhrishP/gltich-portfolio
