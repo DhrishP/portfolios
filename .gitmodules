@@ -10,3 +10,6 @@
 [submodule "minimalistic"]
 	path = minimalistic
 	url = https://github.com/DhrishP/MinimalisticPortfolio
+[submodule "mini-blog"]
+	path = mini-blog
+	url = https://github.com/DhrishP/buildspace-procast-website
