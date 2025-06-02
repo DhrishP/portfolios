@@ -4,3 +4,6 @@
 [submodule "glitch"]
 	path = glitch
 	url = https://github.com/DhrishP/gltich-portfolio
+[submodule "parallax"]
+	path = parallax
+	url = https://github.com/DhrishP/Parallax-website
